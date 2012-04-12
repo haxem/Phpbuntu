@@ -12,6 +12,8 @@
 // AS MBR do.
 
 # So, Just call grub...
-// ...
+/**
+*@todo: call grub here.
+**/
 
 ?>
