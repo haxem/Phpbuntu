@@ -16,7 +16,7 @@ $GRUB_DEFAULT=0;
 // If you hide grub, a count down will be shown
 // to inform you. If you want to hide it, 
 // set this option to true.
-$GRUB_HIDDEN_TIMEOUT=true;
+$GRUB_HIDDEN_TIMEOUT_QUIET=true;
 
 // GRUB TIMEOUT -seconds-
 // If -1, grub will wait forever!
