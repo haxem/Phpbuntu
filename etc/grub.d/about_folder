@@ -1,0 +1,2 @@
+The scripts in this directory are read during execution of the update-grub command and 
+their instructions are incorporated into /boot/grub/grub.cfg
